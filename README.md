@@ -1,8 +1,3 @@
-6. Copy the public URL of the deployed backend.
-7. Set the frontend environment variable `VITE_API_URL` to the backend's public URL, without a trailing slash.
-8. Trigger a new frontend deployment after changing the environment variable.
-9. Test the frontend comparison workflow and the backend health endpoint.
-
 ### Backend configuration
 
 If deploying the backend manually, use these settings:
